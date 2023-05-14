@@ -98,8 +98,8 @@
   width: 100%;
   height: 600px;
   padding-top: 40px;
-  border: 1px solid red;
   display: flex;
+  padding-bottom: 100px;
 }
 .about-section-1 {
   width: 50%;
@@ -122,6 +122,9 @@
   top: 670px;
   left: 560px;
 }
+.about-section-2 > p {
+  max-width: 75%;
+}
 h1 {
   color: #eeaabb;
 }
@@ -138,7 +141,6 @@ h1 {
 .work-section {
   width: 100%;
   height: 100%;
-  border: 1px solid red;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -152,4 +154,57 @@ h1 {
 .work-section > p {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+.main-section-cm {
+  width: 100%;
+  /* height: 600px; */
+  border: 1px solid red;
+  display: flex;
+  padding-top: 30px;
+}
+.cm-form {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 30px;
+  border: 1px solid blue;
+}
+.cm-form > input,
+h1 {
+  width: 50%;
+  height: 20px;
+}
+.cm-image {
+  width: 50%;
+  height: 600px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid green;
+}
+.cm-form > textarea {
+  width: 50%;
+  height: 50px;
+}
+.cm-form > button {
+  width: 50px;
+  height: 30px;
+  background-color: #584da8;
+  color: white;
+  cursor: pointer;
+}
+.cm-image > img {
+  max-width: 50%;
+  max-height: 70%;
+  border: 1px solid black;
+}
+.cm-icons {
+  border: 1px solid crimson;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
