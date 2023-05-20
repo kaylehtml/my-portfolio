@@ -113,6 +113,8 @@
 }
 .about-section-1 > img {
   position: relative;
+  object-fit: cover;
+  width: 100%;
 }
 .decoration {
   position: absolute;
