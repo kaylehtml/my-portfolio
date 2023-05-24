@@ -232,7 +232,6 @@ h1 {
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  border: 1px solid red;
   width: 50%;
   height: 300px;
 }
@@ -240,7 +239,6 @@ h1 {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  border: 1px solid yellow;
 }
 .cm-footer-1 > p {
   color: #eeaabb;
