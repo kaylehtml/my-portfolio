@@ -106,6 +106,16 @@
   .about-section {
     flex-direction: column;
   }
+  .main-section-cm /* queste media queries non si vedono */ {
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .cm-icons /* queste media queries non si vedono */ {
+    max-width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+  }
 }
 .about-section-1 {
   width: 50%;

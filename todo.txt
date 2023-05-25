@@ -1,2 +1,1 @@
-cose da fare cambiare la navbar e mettere solo il logo linkato alla Home
-mettere delle media queries specifiche 
+aggiungere delle media queries che funzionino 
