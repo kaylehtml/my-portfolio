@@ -1,1 +1,0 @@
-aggiungere delle media queries che funzionino 
