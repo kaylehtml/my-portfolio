@@ -11,4 +11,4 @@ You can find links in the "Contact me" page of the website
 - [x] Aggiungere delle media queries che funzionino
 - [x] Aggiungere un footer
 - [x] Animazioni
-- [] provare ad aggiungere di nuovo l'icona di instagram
+- [ ] provare ad aggiungere di nuovo l'icona di instagram
